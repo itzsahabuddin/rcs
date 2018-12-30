@@ -1,0 +1,38 @@
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\bin\Debug\RajCycleStores.exe
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\bin\Debug\RajCycleStores.pdb
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Properties.Resources.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.csproj.GenerateResource.Cache
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.exe
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.pdb
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.csprojResolveAssemblyReference.cache
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form1.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form2.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form4.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form3.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form5.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form6.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form7.resources
+C:\Users\Samim\documents\visual studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.exe.licenses
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.exe
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.pdb
+F:\RajCycleStores\RajCycleStores\bin\Debug\RajCycleStores.exe
+F:\RajCycleStores\RajCycleStores\bin\Debug\RajCycleStores.pdb
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.csprojResolveAssemblyReference.cache
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form1.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form2.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form3.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form4.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form5.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form6.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Form7.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Properties.Resources.resources
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.csproj.GenerateResource.Cache
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.exe.licenses
+F:\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Login.resources
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Login.resources
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\bin\Debug\RajCycleStores.exe.config
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.SalesReport.resources
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.ForgotPwd.resources
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.ChangePasswd.resources
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Payment_Report.resources
+C:\Users\Samim\Documents\Visual Studio 2010\Projects\RajCycleStores\RajCycleStores\obj\x86\Debug\RajCycleStores.Purchasing_Report.resources
